@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "64_Outs")(type "KiCad")(uri "D:/00_EES/Orgue/Avrille/64_Outs.pretty")(options "")(descr ""))
+)
