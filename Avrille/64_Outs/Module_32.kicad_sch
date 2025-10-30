@@ -8351,7 +8351,7 @@
 			)
 		)
 		(instances
-			(project "64_Outs_V1"
+			(project "64_Outs"
 				(path "/0b649d9e-d5fa-4733-aaac-00dc617548f4/c8171253-0572-4fd8-a5d2-98475fe13b59"
 					(page "5")
 				)
@@ -8576,7 +8576,7 @@
 			)
 		)
 		(instances
-			(project "64_Outs_V1"
+			(project "64_Outs"
 				(path "/0b649d9e-d5fa-4733-aaac-00dc617548f4/c8171253-0572-4fd8-a5d2-98475fe13b59"
 					(page "9")
 				)
@@ -8801,7 +8801,7 @@
 			)
 		)
 		(instances
-			(project "64_Outs_V1"
+			(project "64_Outs"
 				(path "/0b649d9e-d5fa-4733-aaac-00dc617548f4/c8171253-0572-4fd8-a5d2-98475fe13b59"
 					(page "7")
 				)
@@ -9026,7 +9026,7 @@
 			)
 		)
 		(instances
-			(project "64_Outs_V1"
+			(project "64_Outs"
 				(path "/0b649d9e-d5fa-4733-aaac-00dc617548f4/aa31f363-ff8b-443f-9412-89b388a8f166"
 					(page "4")
 				)

@@ -2816,7 +2816,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 111.76) (xy 154.94 111.76)
+			(xy 151.13 111.76) (xy 154.94 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2996,7 +2996,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 60.96) (xy 88.9 60.96)
+			(xy 86.36 60.96) (xy 90.17 60.96)
 		)
 		(stroke
 			(width 0)
@@ -3025,7 +3025,7 @@
 		(uuid "09bd2829-bdc3-4544-bf77-baade933a478")
 	)
 	(label "Cmd_6"
-		(at 152.4 111.76 180)
+		(at 151.13 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3495,7 +3495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOTFL95P240X88-3N"
+		(property "Footprint" "64_Outs:SOTFL95P240X88-3N"
 			(at 240.03 159.69 0)
 			(effects
 				(font
@@ -3752,7 +3752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOTFL95P240X88-3N"
+		(property "Footprint" "64_Outs:SOTFL95P240X88-3N"
 			(at 242.57 210.49 0)
 			(effects
 				(font
@@ -4039,7 +4039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOTFL95P240X88-3N"
+		(property "Footprint" "64_Outs:SOTFL95P240X88-3N"
 			(at 179.07 210.49 0)
 			(effects
 				(font
@@ -4641,7 +4641,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOTFL95P240X88-3N"
+		(property "Footprint" "64_Outs:SOTFL95P240X88-3N"
 			(at 176.53 159.69 0)
 			(effects
 				(font
@@ -4898,7 +4898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOTFL95P240X88-3N"
+		(property "Footprint" "64_Outs:SOTFL95P240X88-3N"
 			(at 52.07 210.49 0)
 			(effects
 				(font
@@ -5938,7 +5938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOTFL95P240X88-3N"
+		(property "Footprint" "64_Outs:SOTFL95P240X88-3N"
 			(at 113.03 159.69 0)
 			(effects
 				(font
@@ -6540,7 +6540,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOTFL95P240X88-3N"
+		(property "Footprint" "64_Outs:SOTFL95P240X88-3N"
 			(at 49.53 159.69 0)
 			(effects
 				(font
@@ -7082,7 +7082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOTFL95P240X88-3N"
+		(property "Footprint" "64_Outs:SOTFL95P240X88-3N"
 			(at 115.57 210.49 0)
 			(effects
 				(font

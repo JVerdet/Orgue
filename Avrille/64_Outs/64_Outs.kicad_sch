@@ -16435,7 +16435,7 @@
 			)
 		)
 		(instances
-			(project "64_Outs_V1"
+			(project "64_Outs"
 				(path "/0b649d9e-d5fa-4733-aaac-00dc617548f4"
 					(page "3")
 				)
@@ -16527,7 +16527,7 @@
 			)
 		)
 		(instances
-			(project "64_Outs_V1"
+			(project "64_Outs"
 				(path "/0b649d9e-d5fa-4733-aaac-00dc617548f4"
 					(page "2")
 				)
